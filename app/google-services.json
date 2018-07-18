@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1074758256310",
+    "firebase_url": "https://parassfaindirectlikerspl.firebaseio.com",
+    "project_id": "parassfaindirectlikerspl",
+    "storage_bucket": "parassfaindirectlikerspl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074758256310:android:71ec44c0575ef9f1",
+        "android_client_info": {
+          "package_name": "project.astix.com.parassfaindirectlikerspl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074758256310-in1sbhetmnokovnnug7ghvd7v9qgmkmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfzM3RRTA0DngRpF_9rg36Xk8bntX3NB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
